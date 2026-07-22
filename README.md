@@ -20,15 +20,15 @@
 
 ## Contents
 
-- [News and Threat Intelligence](#-news-and-threat-intelligence)
-- [Stories and Investigations](#-stories-and-investigations)
-- [Technical Security and Practitioner Skills](#-technical-security-and-practitioner-skills)
-- [Leadership, Policy, and Security Culture](#-leadership-policy-and-security-culture)
-- [Contributing](#-contributing)
+- [News and Threat Intelligence](#news-and-threat-intelligence)
+- [Stories and Investigations](#stories-and-investigations)
+- [Technical Security and Practitioner Skills](#technical-security-and-practitioner-skills)
+- [Leadership, Policy, and Security Culture](#leadership-policy-and-security-culture)
+- [Contributing](#contributing)
 
-## 🛰️ News and Threat Intelligence
+## News and Threat Intelligence
 
-Fast-moving briefings on threats, breaches, attacker behavior, and defensive priorities.
+🛰️ Fast-moving briefings on threats, breaches, attacker behavior, and defensive priorities.
 
 | Podcast | What you'll hear | Listen |
 | --- | --- | :---: |
@@ -44,9 +44,9 @@ Fast-moving briefings on threats, breaches, attacker behavior, and defensive pri
 | **[The Defender's Advantage Podcast](https://cloud.google.com/security/mandiant)** | Google Threat Intelligence experts discuss attacker behavior, incident response, and defensive strategy. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/the-defenders-advantage-podcast/id1073779629) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/7CFsvR9lOLZiNoVDUltL9X) |
 | **[Microsoft Threat Intelligence Podcast](https://MSThreatIntelPodcast.com)** | Sherrod DeGrippo and Microsoft researchers examine threat actors, campaigns, investigations, and defensive lessons. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/microsoft-threat-intelligence-podcast/id1710656242) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/7kaJodHquryFw5YDw0BShj) |
 
-## 🕵️ Stories and Investigations
+## Stories and Investigations
 
-Narrative reporting on hacks, scams, cybercrime, and the people behind them.
+🕵️ Narrative reporting on hacks, scams, cybercrime, and the people behind them.
 
 | Podcast | What you'll hear | Listen |
 | --- | --- | :---: |
@@ -57,9 +57,9 @@ Narrative reporting on hacks, scams, cybercrime, and the people behind them.
 | **[Hacking Humans](https://thecyberwire.com/podcasts/hacking-humans)** | Deception, influence, scams, and social engineering in cybercrime. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/hacking-humans/id1391915810) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/0EhUctIPJiKrxPjzqIAuDc) |
 | **[Hacker And The Fed](https://podcasts.apple.com/us/podcast/hacker-and-the-fed/id1649541362)** | Former FBI agent Chris Tarbell and former black-hat hacker Hector Monsegur analyze cybersecurity from two uncommon perspectives. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/hacker-and-the-fed/id1649541362) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/4uze2AoxrCv0dRjvElUpTy) |
 
-## 🛠️ Technical Security and Practitioner Skills
+## Technical Security and Practitioner Skills
 
-Deep dives and hands-on lessons for security engineering, cloud defense, cryptography, and offensive work.
+🛠️ Deep dives and hands-on lessons for security engineering, cloud defense, cryptography, and offensive work.
 
 | Podcast | What you'll hear | Listen |
 | --- | --- | :---: |
@@ -68,9 +68,9 @@ Deep dives and hands-on lessons for security engineering, cloud defense, cryptog
 | **[Cloud Security Podcast by Google](https://cloud.withgoogle.com/cloudsecurity/podcast/)** | Anton Chuvakin and Timothy Peacock interview practitioners about cloud architecture, operations, detection, and response. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/cloud-security-podcast-by-google/id1554145026) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/12WPC7aW5kd0kKSyrpgnHI) |
 | **[7 Minute Security](https://7minsec.com/podcast/)** | Brian Johnson documents penetration testing, cloud security, consulting, and hands-on defensive work. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/7-minute-security/id797742806) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/61c15kBzYFPyr0eMVJS2BK) |
 
-## 🧭 Leadership, Policy, and Security Culture
+## Leadership, Policy, and Security Culture
 
-Conversations about security leadership, privacy, policy, careers, and the human side of the field.
+🧭 Conversations about security leadership, privacy, policy, careers, and the human side of the field.
 
 | Podcast | What you'll hear | Listen |
 | --- | --- | :---: |
@@ -79,9 +79,9 @@ Conversations about security leadership, privacy, policy, careers, and the human
 | **[Unsupervised Learning](https://danielmiessler.com/podcast/)** | Daniel Miessler analyzes cybersecurity, artificial intelligence, national security, technology, and culture. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1099711235) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/0cIzWAEYacLz7Ag1n1YhUJ) |
 | **[Hacker Valley Studio](https://hackervalley.com/)** | Ron Eddings interviews cybersecurity leaders about careers, leadership, resilience, and the human side of security. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/hacker-valley-studio/id1471881997) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/3pl6V7L6KnWdNR59H5dw6n) |
 
-## 🤝 Contributing
+## Contributing
 
-Know a cybersecurity podcast that belongs here, or found something that needs correcting? [Open a pull request](https://github.com/TalEliyahu/awesome-cybersecurity-podcasts/pulls).
+🤝 Know a cybersecurity podcast that belongs here, or found something that needs correcting? [Open a pull request](https://github.com/TalEliyahu/awesome-cybersecurity-podcasts/pulls).
 
 For a new podcast, please include:
 
