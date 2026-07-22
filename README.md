@@ -24,10 +24,6 @@ The catalog is organized by topic. Order within each section does not imply a ra
 - [Risky Business](https://risky.biz/) - A weekly information-security news digest with in-depth industry interviews. [Apple Podcasts](https://podcasts.apple.com/us/podcast/risky-business/id216478078) · [Spotify](https://open.spotify.com/show/2jzD9zn7R2d6erZz2ULLeQ)
 - [Cybersecurity Headlines](https://cisoseries.com/category/podcast/cyber-security-headlines/) - Concise daily information-security headlines from CISO Series. [Apple Podcasts](https://podcasts.apple.com/us/podcast/cybersecurity-headlines/id1527478719) · [Spotify](https://open.spotify.com/show/5ylaiuoDj7YOVSdyVJMDR7)
 - [Cybersecurity Today](https://www.technewsday.ca/) - Threat updates, breach disclosures, and practical guidance for organizations. [Apple Podcasts](https://podcasts.apple.com/us/podcast/cybersecurity-today/id1363182054) · [Spotify](https://open.spotify.com/show/2YiPcnkJLIcxtQ04nCfaSu)
-- [Security Weekly Podcast Network](https://www.securityweekly.com/) - A multi-show feed covering application, enterprise, business, and practitioner security. [Apple Podcasts](https://podcasts.apple.com/us/podcast/security-weekly-podcast-network-audio/id91472687)
-- [Daily Cyber Threat Brief](https://www.simplycyber.io/streams) - A weekday briefing that explains the stories security professionals and business leaders need to know. [Apple Podcasts](https://podcasts.apple.com/us/podcast/daily-cyber-threat-brief/id1590662228)
-- [Microsoft Threat Intelligence Podcast](https://www.microsoft.com/security/security-insider/) - Frontline stories and analysis covering APTs, cybercrime, malware, and vulnerabilities. [Apple Podcasts](https://podcasts.apple.com/us/podcast/microsoft-threat-intelligence-podcast/id1710656242)
-- [The Defender's Advantage Podcast](https://cloud.google.com/security/resources/mandiant-podcast) - Expert conversations on threat activity, incident response, defensive guidance, and attacker tradecraft. [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-defenders-advantage-podcast/id1073779629)
 
 ## Stories and Investigations
 
@@ -41,17 +37,11 @@ The catalog is organized by topic. Order within each section does not imply a ra
 ## Technical Security and Practitioner Skills
 
 - [Defensive Security Podcast](https://defensivesecurity.org/) - Lessons defenders can apply from recent breaches, malware infections, and intrusions. [Apple Podcasts](https://podcasts.apple.com/us/podcast/defensive-security-podcast-malware-hacking-cyber-security/id585914973) · [Spotify](https://open.spotify.com/show/71q37TgyDM0AzVbWeyB2Jx)
-- [The 443 - Security Simplified](https://the443.podbean.com/) - White-hat hackers simplify current security headlines, trends, and technical concepts. [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-443-security-simplified/id1399962220)
-- [Security Cryptography Whatever](https://securitycryptographywhatever.com/) - Security and cryptography practitioners discuss technical topics and current events. [Apple Podcasts](https://podcasts.apple.com/us/podcast/security-cryptography-whatever/id1578405214)
-- [7 Minute Security](https://7minsec.com/) - Practical episodes about penetration testing, blue teaming, and building a security career. [Apple Podcasts](https://podcasts.apple.com/us/podcast/7-minute-security/id797742806)
-- [Cloud Security Podcast by Google](https://cloud.withgoogle.com/cloudsecurity/podcast/) - Conversations about cloud security, threat models, and protecting cloud workloads and data. [Apple Podcasts](https://podcasts.apple.com/us/podcast/cloud-security-podcast-by-google/id1554145026)
 
 ## Leadership, Policy, and Security Culture
 
 - [CISO Series Podcast](https://cisoseries.com/category/podcast/ciso-series-podcast/) - Security practitioners and vendors debate how to work together and improve security programs. [Apple Podcasts](https://podcasts.apple.com/us/podcast/ciso-series-podcast/id1391337832) · [Spotify](https://open.spotify.com/show/2GNPgHa4J8TGf1bFkHxoiF)
 - [Caveat](https://thecyberwire.com/podcasts/caveat) - Conversations about surveillance, digital privacy, cybersecurity law, and public policy. [Apple Podcasts](https://podcasts.apple.com/us/podcast/caveat/id1484421145) · [Spotify](https://open.spotify.com/show/0brWoMaIcBZiFmTQWNK62K)
-- [Unsupervised Learning](https://danielmiessler.com/podcast/) - Daniel Miessler explores cybersecurity, national security, AI, technology, and culture. [Apple Podcasts](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1099711235)
-- [Hacker Valley Studio](https://hackervalley.com/) - Conversations with cybersecurity professionals about their work, careers, companies, and experiences. [Apple Podcasts](https://podcasts.apple.com/us/podcast/hacker-valley-studio/id1471881997)
 
 ## Contributing
 
