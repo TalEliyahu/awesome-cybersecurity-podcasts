@@ -4,6 +4,8 @@
   <strong>A curated directory of standout shows for defenders, researchers, leaders, and the security-curious.</strong>
 </p>
 
+[![Awesome Cybersecurity Podcasts](./Awesome%20Cybersecurity%20Podcasts.png)](https://www.awesomecybersecuritypodcasts.com/)
+
 ## Contents
 
 - [News and Threat Intelligence](#news-and-threat-intelligence)
