@@ -4,10 +4,6 @@ A curated collection of cybersecurity podcasts covering current news, threat int
 
 > 🎧 [Listen to the latest episodes](https://www.awesomecybersecuritypodcasts.com/latest) or [browse the Top 15](https://www.awesomecybersecuritypodcasts.com/top-podcasts).
 
-> 🔗 Related: [Awesome Security Newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)
-
-The catalog is organized by topic. Order within each section does not imply a ranking.
-
 ## Contents
 
 - [News and Threat Intelligence](#news-and-threat-intelligence)
