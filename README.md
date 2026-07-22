@@ -1,57 +1,85 @@
-# Awesome Cybersecurity Podcasts [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<h1 align="center">🎙️ Awesome Cybersecurity Podcasts</h1>
 
-A curated collection of cybersecurity podcasts covering current news, threat intelligence, investigations, privacy, cloud security, leadership, offensive security, and practitioner skills.
+<p align="center">
+  <strong>A curated directory of standout shows for defenders, researchers, leaders, and the security-curious.</strong>
+</p>
 
-> 🎧 [Listen to the latest episodes](https://www.awesomecybersecuritypodcasts.com/latest) or [browse the Top 15](https://www.awesomecybersecuritypodcasts.com/top-podcasts).
+<p align="center">
+  <a href="https://www.awesomecybersecuritypodcasts.com/latest"><img alt="Listen to the latest episodes" src="https://img.shields.io/badge/Listen-Latest_Episodes-0F766E?style=for-the-badge&amp;logo=rss&amp;logoColor=white"></a>
+  <a href="https://www.awesomecybersecuritypodcasts.com/top-podcasts"><img alt="Browse the Top 15" src="https://img.shields.io/badge/Explore-Top_15-1D4ED8?style=for-the-badge"></a>
+</p>
 
-This repository lists 25 active shows. The website continues to present the ranked Top 15.
+<p align="center">
+  <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge-flat2.svg"></a>
+  <img alt="25 active shows" src="https://img.shields.io/badge/25-Active_Shows-111827?style=flat-square">
+  <img alt="4 curated categories" src="https://img.shields.io/badge/4-Curated_Categories-111827?style=flat-square">
+</p>
+
+> [!NOTE]
+> This repository includes all 25 active shows. The companion website features the ranked Top 15 and a continuously updated latest-episodes feed.
 
 ## Contents
 
-- [News and Threat Intelligence](#news-and-threat-intelligence)
-- [Stories and Investigations](#stories-and-investigations)
-- [Technical Security and Practitioner Skills](#technical-security-and-practitioner-skills)
-- [Leadership, Policy, and Security Culture](#leadership-policy-and-security-culture)
-- [Contributing](#contributing)
+- [News and Threat Intelligence](#-news-and-threat-intelligence)
+- [Stories and Investigations](#-stories-and-investigations)
+- [Technical Security and Practitioner Skills](#-technical-security-and-practitioner-skills)
+- [Leadership, Policy, and Security Culture](#-leadership-policy-and-security-culture)
+- [Contributing](#-contributing)
 
-## News and Threat Intelligence
+## 🛰️ News and Threat Intelligence
 
-- [Security Now](https://twit.tv/shows/security-now) - Steve Gibson and Leo Laporte explain the week's cybersecurity news, attacks, and defenses. [Apple Podcasts](https://podcasts.apple.com/us/podcast/security-now-audio/id79016499) · [Spotify](https://open.spotify.com/show/7vAbYigR3zs8GYJP3EoVWw)
-- [SANS Stormcast](https://isc.sans.edu/podcast.html#stormcast) - Johannes Ullrich's short weekday briefing on current network-security events. [Apple Podcasts](https://podcasts.apple.com/us/podcast/sans-internet-stormcenter-daily-cyber-security-podcast/id304863991) · [Spotify](https://open.spotify.com/show/4orGHEysjCAWvGEbHzeL9A)
-- [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast) - Weekday cybersecurity news, analysis, and expert interviews from N2K Networks. [Apple Podcasts](https://podcasts.apple.com/us/podcast/cyberwire-daily/id1071831261) · [Spotify](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe)
-- [Risky Business](https://risky.biz/) - A weekly information-security news digest with in-depth industry interviews. [Apple Podcasts](https://podcasts.apple.com/us/podcast/risky-business/id216478078) · [Spotify](https://open.spotify.com/show/2jzD9zn7R2d6erZz2ULLeQ)
-- [Cybersecurity Headlines](https://cisoseries.com/category/podcast/cyber-security-headlines/) - Concise daily information-security headlines from CISO Series. [Apple Podcasts](https://podcasts.apple.com/us/podcast/cybersecurity-headlines/id1527478719) · [Spotify](https://open.spotify.com/show/5ylaiuoDj7YOVSdyVJMDR7)
-- [Cybersecurity Today](https://www.technewsday.ca/) - Threat updates, breach disclosures, and practical guidance for organizations. [Apple Podcasts](https://podcasts.apple.com/us/podcast/cybersecurity-today/id1363182054) · [Spotify](https://open.spotify.com/show/2YiPcnkJLIcxtQ04nCfaSu)
-- [Security Weekly Podcast Network](https://www.scworld.com/security-weekly) - Rotating programs cover enterprise security, application security, security leadership, and current research. [Apple Podcasts](https://podcasts.apple.com/us/podcast/security-weekly-podcast-network-audio/id91472687) · [Spotify](https://open.spotify.com/show/2eAe6x1Ps25C1ofTYhp5TA)
-- [The 443 - Security Simplified](https://www.watchguard.com/wgrd-security-hub/podcast-the-443) - WatchGuard researchers explain current security news and technical findings for practitioners. [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-443-security-simplified/id1399962220) · [Spotify](https://open.spotify.com/show/1um4vj5lRCeFjaaT6KyAJC)
-- [Daily Cyber Threat Brief](https://cyberthreatbrief.simplycyber.io/) - Gerald Auger's weekday briefing covers cyber news, vulnerabilities, breaches, and defensive priorities. [Apple Podcasts](https://podcasts.apple.com/us/podcast/daily-cyber-threat-brief/id1590662228) · [Spotify](https://open.spotify.com/show/4cIPSwHmDVMAGd2UsFAvyl)
-- [The Defender's Advantage Podcast](https://cloud.google.com/security/mandiant) - Google Threat Intelligence experts discuss attacker behavior, incident response, and defensive strategy. [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-defenders-advantage-podcast/id1073779629) · [Spotify](https://open.spotify.com/show/7CFsvR9lOLZiNoVDUltL9X)
-- [Microsoft Threat Intelligence Podcast](https://MSThreatIntelPodcast.com) - Sherrod DeGrippo and Microsoft researchers examine threat actors, campaigns, investigations, and defensive lessons. [Apple Podcasts](https://podcasts.apple.com/us/podcast/microsoft-threat-intelligence-podcast/id1710656242) · [Spotify](https://open.spotify.com/show/7kaJodHquryFw5YDw0BShj)
+Fast-moving briefings on threats, breaches, attacker behavior, and defensive priorities.
 
-## Stories and Investigations
+| Podcast | What you'll hear | Listen |
+| --- | --- | :---: |
+| **[Security Now](https://twit.tv/shows/security-now)** | Steve Gibson and Leo Laporte explain the week's cybersecurity news, attacks, and defenses. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/security-now-audio/id79016499) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/7vAbYigR3zs8GYJP3EoVWw) |
+| **[SANS Stormcast](https://isc.sans.edu/podcast.html#stormcast)** | Johannes Ullrich's short weekday briefing on current network-security events. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/sans-internet-stormcenter-daily-cyber-security-podcast/id304863991) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/4orGHEysjCAWvGEbHzeL9A) |
+| **[CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast)** | Weekday cybersecurity news, analysis, and expert interviews from N2K Networks. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/cyberwire-daily/id1071831261) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe) |
+| **[Risky Business](https://risky.biz/)** | A weekly information-security news digest with in-depth industry interviews. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/risky-business/id216478078) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/2jzD9zn7R2d6erZz2ULLeQ) |
+| **[Cybersecurity Headlines](https://cisoseries.com/category/podcast/cyber-security-headlines/)** | Concise daily information-security headlines from CISO Series. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/cybersecurity-headlines/id1527478719) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/5ylaiuoDj7YOVSdyVJMDR7) |
+| **[Cybersecurity Today](https://www.technewsday.ca/)** | Threat updates, breach disclosures, and practical guidance for organizations. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/cybersecurity-today/id1363182054) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/2YiPcnkJLIcxtQ04nCfaSu) |
+| **[Security Weekly Podcast Network](https://www.scworld.com/security-weekly)** | Rotating programs cover enterprise security, application security, security leadership, and current research. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/security-weekly-podcast-network-audio/id91472687) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/2eAe6x1Ps25C1ofTYhp5TA) |
+| **[The 443 - Security Simplified](https://www.watchguard.com/wgrd-security-hub/podcast-the-443)** | WatchGuard researchers explain current security news and technical findings for practitioners. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/the-443-security-simplified/id1399962220) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/1um4vj5lRCeFjaaT6KyAJC) |
+| **[Daily Cyber Threat Brief](https://cyberthreatbrief.simplycyber.io/)** | Gerald Auger's weekday briefing covers cyber news, vulnerabilities, breaches, and defensive priorities. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/daily-cyber-threat-brief/id1590662228) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/4cIPSwHmDVMAGd2UsFAvyl) |
+| **[The Defender's Advantage Podcast](https://cloud.google.com/security/mandiant)** | Google Threat Intelligence experts discuss attacker behavior, incident response, and defensive strategy. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/the-defenders-advantage-podcast/id1073779629) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/7CFsvR9lOLZiNoVDUltL9X) |
+| **[Microsoft Threat Intelligence Podcast](https://MSThreatIntelPodcast.com)** | Sherrod DeGrippo and Microsoft researchers examine threat actors, campaigns, investigations, and defensive lessons. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/microsoft-threat-intelligence-podcast/id1710656242) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/7kaJodHquryFw5YDw0BShj) |
 
-- [Darknet Diaries](https://darknetdiaries.com/) - Jack Rhysider tells true stories about hacking, data breaches, cybercrime, and the hidden parts of the internet. [Apple Podcasts](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485) · [Spotify](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5)
-- [Smashing Security](https://www.smashingsecurity.com/) - Graham Cluley's weekly mix of cybercrime stories, privacy failures, rogue AI, and humor. [Apple Podcasts](https://podcasts.apple.com/us/podcast/smashing-security/id1195001633) · [Spotify](https://open.spotify.com/show/3J7pBxEu43nCnRTSXaan8S)
-- [Hacked](https://www.hackedpodcast.com/) - Strange stories about hacking, technology, internet scams, AI, and security. [Apple Podcasts](https://podcasts.apple.com/us/podcast/hacked/id1049420219) · [Spotify](https://open.spotify.com/show/21zZfOy7VCSIIWlJ64DElv)
-- [Click Here](https://therecord.media/podcast) - True stories about the people making and breaking the digital world, told without unnecessary jargon. [Apple Podcasts](https://podcasts.apple.com/us/podcast/click-here/id1225077306) · [Spotify](https://open.spotify.com/show/2kxOETGvN32D6hZu0wPntG)
-- [Hacking Humans](https://thecyberwire.com/podcasts/hacking-humans) - Deception, influence, scams, and social engineering in cybercrime. [Apple Podcasts](https://podcasts.apple.com/us/podcast/hacking-humans/id1391915810) · [Spotify](https://open.spotify.com/show/0EhUctIPJiKrxPjzqIAuDc)
-- [Hacker And The Fed](https://podcasts.apple.com/us/podcast/hacker-and-the-fed/id1649541362) - Former FBI agent Chris Tarbell and former black-hat hacker Hector Monsegur analyze cybersecurity from two uncommon perspectives. [Spotify](https://open.spotify.com/show/4uze2AoxrCv0dRjvElUpTy)
+## 🕵️ Stories and Investigations
 
-## Technical Security and Practitioner Skills
+Narrative reporting on hacks, scams, cybercrime, and the people behind them.
 
-- [Defensive Security Podcast](https://defensivesecurity.org/) - Lessons defenders can apply from recent breaches, malware infections, and intrusions. [Apple Podcasts](https://podcasts.apple.com/us/podcast/defensive-security-podcast-malware-hacking-cyber-security/id585914973) · [Spotify](https://open.spotify.com/show/71q37TgyDM0AzVbWeyB2Jx)
-- [Security Cryptography Whatever](https://securitycryptographywhatever.com/) - Deirdre Connolly, Thomas Ptacek, and David Adrian discuss applied security and cryptography in depth. [Apple Podcasts](https://podcasts.apple.com/us/podcast/security-cryptography-whatever/id1578405214) · [Spotify](https://open.spotify.com/show/0bMJ5a7e4er7yDHMuGs9jp)
-- [Cloud Security Podcast by Google](https://cloud.withgoogle.com/cloudsecurity/podcast/) - Anton Chuvakin and Timothy Peacock interview practitioners about cloud architecture, operations, detection, and response. [Apple Podcasts](https://podcasts.apple.com/us/podcast/cloud-security-podcast-by-google/id1554145026) · [Spotify](https://open.spotify.com/show/12WPC7aW5kd0kKSyrpgnHI)
-- [7 Minute Security](https://7minsec.com/podcast/) - Brian Johnson documents penetration testing, cloud security, consulting, and hands-on defensive work. [Apple Podcasts](https://podcasts.apple.com/us/podcast/7-minute-security/id797742806) · [Spotify](https://open.spotify.com/show/61c15kBzYFPyr0eMVJS2BK)
+| Podcast | What you'll hear | Listen |
+| --- | --- | :---: |
+| **[Darknet Diaries](https://darknetdiaries.com/)** | Jack Rhysider tells true stories about hacking, data breaches, cybercrime, and the hidden parts of the internet. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5) |
+| **[Smashing Security](https://www.smashingsecurity.com/)** | Graham Cluley's weekly mix of cybercrime stories, privacy failures, rogue AI, and humor. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/smashing-security/id1195001633) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/3J7pBxEu43nCnRTSXaan8S) |
+| **[Hacked](https://www.hackedpodcast.com/)** | Strange stories about hacking, technology, internet scams, AI, and security. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/hacked/id1049420219) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/21zZfOy7VCSIIWlJ64DElv) |
+| **[Click Here](https://therecord.media/podcast)** | True stories about the people making and breaking the digital world, told without unnecessary jargon. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/click-here/id1225077306) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/2kxOETGvN32D6hZu0wPntG) |
+| **[Hacking Humans](https://thecyberwire.com/podcasts/hacking-humans)** | Deception, influence, scams, and social engineering in cybercrime. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/hacking-humans/id1391915810) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/0EhUctIPJiKrxPjzqIAuDc) |
+| **[Hacker And The Fed](https://podcasts.apple.com/us/podcast/hacker-and-the-fed/id1649541362)** | Former FBI agent Chris Tarbell and former black-hat hacker Hector Monsegur analyze cybersecurity from two uncommon perspectives. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/hacker-and-the-fed/id1649541362) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/4uze2AoxrCv0dRjvElUpTy) |
 
-## Leadership, Policy, and Security Culture
+## 🛠️ Technical Security and Practitioner Skills
 
-- [CISO Series Podcast](https://cisoseries.com/category/podcast/ciso-series-podcast/) - Security practitioners and vendors debate how to work together and improve security programs. [Apple Podcasts](https://podcasts.apple.com/us/podcast/ciso-series-podcast/id1391337832) · [Spotify](https://open.spotify.com/show/2GNPgHa4J8TGf1bFkHxoiF)
-- [Caveat](https://thecyberwire.com/podcasts/caveat) - Conversations about surveillance, digital privacy, cybersecurity law, and public policy. [Apple Podcasts](https://podcasts.apple.com/us/podcast/caveat/id1484421145) · [Spotify](https://open.spotify.com/show/0brWoMaIcBZiFmTQWNK62K)
-- [Unsupervised Learning](https://danielmiessler.com/podcast/) - Daniel Miessler analyzes cybersecurity, artificial intelligence, national security, technology, and culture. [Apple Podcasts](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1099711235) · [Spotify](https://open.spotify.com/show/0cIzWAEYacLz7Ag1n1YhUJ)
-- [Hacker Valley Studio](https://hackervalley.com/) - Ron Eddings interviews cybersecurity leaders about careers, leadership, resilience, and the human side of security. [Apple Podcasts](https://podcasts.apple.com/us/podcast/hacker-valley-studio/id1471881997) · [Spotify](https://open.spotify.com/show/3pl6V7L6KnWdNR59H5dw6n)
+Deep dives and hands-on lessons for security engineering, cloud defense, cryptography, and offensive work.
 
-## Contributing
+| Podcast | What you'll hear | Listen |
+| --- | --- | :---: |
+| **[Defensive Security Podcast](https://defensivesecurity.org/)** | Lessons defenders can apply from recent breaches, malware infections, and intrusions. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/defensive-security-podcast-malware-hacking-cyber-security/id585914973) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/71q37TgyDM0AzVbWeyB2Jx) |
+| **[Security Cryptography Whatever](https://securitycryptographywhatever.com/)** | Deirdre Connolly, Thomas Ptacek, and David Adrian discuss applied security and cryptography in depth. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/security-cryptography-whatever/id1578405214) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/0bMJ5a7e4er7yDHMuGs9jp) |
+| **[Cloud Security Podcast by Google](https://cloud.withgoogle.com/cloudsecurity/podcast/)** | Anton Chuvakin and Timothy Peacock interview practitioners about cloud architecture, operations, detection, and response. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/cloud-security-podcast-by-google/id1554145026) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/12WPC7aW5kd0kKSyrpgnHI) |
+| **[7 Minute Security](https://7minsec.com/podcast/)** | Brian Johnson documents penetration testing, cloud security, consulting, and hands-on defensive work. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/7-minute-security/id797742806) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/61c15kBzYFPyr0eMVJS2BK) |
+
+## 🧭 Leadership, Policy, and Security Culture
+
+Conversations about security leadership, privacy, policy, careers, and the human side of the field.
+
+| Podcast | What you'll hear | Listen |
+| --- | --- | :---: |
+| **[CISO Series Podcast](https://cisoseries.com/category/podcast/ciso-series-podcast/)** | Security practitioners and vendors debate how to work together and improve security programs. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/ciso-series-podcast/id1391337832) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/2GNPgHa4J8TGf1bFkHxoiF) |
+| **[Caveat](https://thecyberwire.com/podcasts/caveat)** | Conversations about surveillance, digital privacy, cybersecurity law, and public policy. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/caveat/id1484421145) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/0brWoMaIcBZiFmTQWNK62K) |
+| **[Unsupervised Learning](https://danielmiessler.com/podcast/)** | Daniel Miessler analyzes cybersecurity, artificial intelligence, national security, technology, and culture. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1099711235) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/0cIzWAEYacLz7Ag1n1YhUJ) |
+| **[Hacker Valley Studio](https://hackervalley.com/)** | Ron Eddings interviews cybersecurity leaders about careers, leadership, resilience, and the human side of security. | [![Listen on Apple Podcasts][apple-badge]](https://podcasts.apple.com/us/podcast/hacker-valley-studio/id1471881997) [![Listen on Spotify][spotify-badge]](https://open.spotify.com/show/3pl6V7L6KnWdNR59H5dw6n) |
+
+## 🤝 Contributing
 
 Know a cybersecurity podcast that belongs here, or found something that needs correcting? [Open a pull request](https://github.com/TalEliyahu/awesome-cybersecurity-podcasts/pulls).
 
@@ -63,3 +91,6 @@ For a new podcast, please include:
 - A one-sentence description
 - The host or publisher
 - A recent episode showing publication within the past 90 days
+
+[apple-badge]: https://img.shields.io/badge/Apple-9933CC?style=flat-square&logo=applepodcasts&logoColor=white
+[spotify-badge]: https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white
