@@ -15,7 +15,6 @@ The catalog is organized by topic. Order within each section does not imply a ra
 - [Technical Security and Practitioner Skills](#technical-security-and-practitioner-skills)
 - [Leadership, Policy, and Security Culture](#leadership-policy-and-security-culture)
 - [Contributing](#contributing)
-- [Selection Guidelines](#selection-guidelines)
 
 ## News and Threat Intelligence
 
@@ -66,13 +65,3 @@ For a new podcast, please include:
 - A one-sentence description
 - The host or publisher
 - A recent episode showing publication within the past 90 days
-
-## Selection Guidelines
-
-Podcasts should:
-
-- Focus primarily on cybersecurity, privacy, threat intelligence, security leadership, or hands-on security practice
-- Offer substantial original reporting, analysis, education, interviews, or storytelling
-- Publish through a publicly accessible feed
-- Have released an episode within the past 90 days
-- Avoid misleading titles, copied feeds, or purely promotional content
