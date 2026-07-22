@@ -4,17 +4,6 @@
   <strong>A curated directory of standout shows for defenders, researchers, leaders, and the security-curious.</strong>
 </p>
 
-<p align="center">
-  <a href="https://www.awesomecybersecuritypodcasts.com/latest"><img alt="Listen to the latest episodes" src="https://img.shields.io/badge/Listen-Latest_Episodes-0F766E?style=for-the-badge&amp;logo=rss&amp;logoColor=white"></a>
-  <a href="https://www.awesomecybersecuritypodcasts.com/top-podcasts"><img alt="Browse the Top 15" src="https://img.shields.io/badge/Explore-Top_15-1D4ED8?style=for-the-badge"></a>
-</p>
-
-<p align="center">
-  <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge-flat2.svg"></a>
-  <img alt="25 active shows" src="https://img.shields.io/badge/25-Active_Shows-111827?style=flat-square">
-  <img alt="4 curated categories" src="https://img.shields.io/badge/4-Curated_Categories-111827?style=flat-square">
-</p>
-
 > [!NOTE]
 > This repository includes all 25 active shows. The companion website features the ranked Top 15 and a continuously updated latest-episodes feed.
 
