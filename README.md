@@ -19,8 +19,8 @@
 > This repository includes all 25 active shows. The companion website features the ranked Top 15 and a continuously updated latest-episodes feed.
 
 > [!TIP]
-> **Our rating** is the audited Internal Model Score on a **0–100** scale: 40% Listen Notes, 30% verified rating volume, 15% Bayesian audience satisfaction, 5% Feedspot position, and 10% recent activity. Scores were verified between July 21 and July 23, 2026.
-
+> **Our rating** is the audited Internal Model Score on a **0–100** scale: 40% Listen Notes, 30% verified rating volume, 15% Bayesian audience satisfaction, 5% Feedspot position, and 10% recent activity.
+> 
 ## Contents
 
 - [News and Threat Intelligence](#news-and-threat-intelligence)
